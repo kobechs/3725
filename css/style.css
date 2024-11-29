@@ -1,0 +1,18 @@
+body {
+	text-align: center;	
+    background-color: rgb(33, 177, 158);
+}
+h1 {
+	color: #272525;
+}
+#question {
+	width: 100%;
+	margin: 40px 0;
+	font-size: 40px;
+}
+#answerForm {
+	font-size: 35px;
+}
+#answer {
+	width: 60%;
+}
